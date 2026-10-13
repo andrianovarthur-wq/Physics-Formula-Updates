@@ -1,0 +1,11 @@
+{
+  "version": "2.4.0",
+  "build": 2400,
+  "publishedAt": "2026-10-13T16:20:15.642Z",
+  "notes": "Формулы, динамика к контрольной, выведение и офлайн-прогресс.",
+  "android": {
+    "url": "https://andrianovarthur-wq.github.io/Physics-Formula-Updates/physics-formula-2400.apk",
+    "sha256": "d20538e515a7140349795de3eb0a79b00ca82d61270635b539b05346cd858136",
+    "size": 2001069
+  }
+}
